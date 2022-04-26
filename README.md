@@ -13,3 +13,5 @@
 * PyShark - https://pypi.org/project/pyshark/ - Is the Python wrapper for TShark, that allows Python packet parsing using wireshark dissectors.
 
 * PyOD - https://pyod.readthedocs.io/en/latest/ - (Machine learning anomaly detection with outliers)
+
+* PCAP dataset - https://www.unb.ca/cic/datasets/ids-2017.html
